@@ -28,7 +28,7 @@ function App() {
           <Route
             exact
             path={`${process.env.PUBLIC_URL + "/"}`}
-            component={HomeOne}
+            component={HomeFork}
           />
           <Route
             path={`${process.env.PUBLIC_URL + "/home-one"}`}
