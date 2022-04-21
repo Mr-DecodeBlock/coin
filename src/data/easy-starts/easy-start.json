@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "icon": "/images/icons/010.png",
+    "title": "register and join",
+    "link": "/service-details",
+    "text": "Register your data and affiliate your wallet"
+  },
+  {
+    "id": "2",
+    "icon": "/images/icons/020.png",
+    "title": "buy IlluminatisCoin",
+    "link": "/service-details",
+    "text": "Directly in our Dapp"
+  },
+  {
+    "id": "3",
+    "icon": "/images/icons/030.png",
+    "title": "Trading Rewards",
+    "link": "/service-details",
+    "text": "For each transaction you get Rewards"
+  }
+]

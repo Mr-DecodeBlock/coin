@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "1 Earning Day",
+    "subtitle": "0.1%",
+    "text": "100 USDT = 0,01 USD"
+  },
+  {
+    "id": "2",
+    "title": "3 Earning Days",
+    "subtitle": "0.45%",
+    "text": "100 USDT = 0,45 USD"
+  },
+  {
+    "id": "3",
+    "title": "7 Earning Days",
+    "subtitle": "1.4%",
+    "text": "100 USDT = 1,4 USD"
+  },
+  {
+    "id": "4",
+    "title": "15 Earning Days",
+    "subtitle": "3.75%",
+    "text": "100 USDT = 37,5 USD"
+  },
+  {
+    "id": "5",
+    "title": "30 Earning Days",
+    "subtitle": "9%",
+    "text": "100 USDT = 90 USD"
+  },
+  {
+    "id": "6",
+    "title": "45 Earning Days",
+    "subtitle": "15%",
+    "text": "100 USDT = 150 USD"
+  }
+]
