@@ -6,7 +6,7 @@ const AboutContent = () => {
     <div className="about__dgtaka about--2 section-padding--xl">
       <div className="container">
         <div className="row align-items-center">
-          <div className="col-lg-7 col-12 col-sm-12 col-md-12">
+          <div className="col-lg-7 col-12 col-md-12 col-md-12">
             <div className="dg__secure__inner">
               {/* section title */}
               <SectionTitleFour title="About HOWARD & its Future" />
