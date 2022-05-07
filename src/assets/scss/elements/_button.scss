@@ -22,6 +22,9 @@ a.dg__btn {
     &:hover {
         color: #FFF;
         background: #F7A901 none repeat scroll 0 0;
+        -moz-box-shadow: 0 0px 20px rgb(255, 230, 0,  0.3);
+        -webkit-box-shadow: 0 15px 20px rgba(255, 230, 0, 0.5);
+        box-shadow: 0 0 30px rgba(255, 230, 0, 0.5);
     }
     &.btn--white {
         color: #F7A901;

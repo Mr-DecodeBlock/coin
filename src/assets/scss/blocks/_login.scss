@@ -90,8 +90,9 @@
     }
 }
 
-.account__btn {
+.account__btn{
     font-size: 19px;
+    
 
     display: block;
 
@@ -111,7 +112,9 @@
         background: #F7A901 none repeat scroll 0 0;
     }
 }
-
+.emerg__wnds{
+    margin-top: 10px;
+}
 /* Responsive Css*/
 
 @media #{$lg-layout} {
