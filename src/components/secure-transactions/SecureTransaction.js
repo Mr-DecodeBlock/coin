@@ -26,7 +26,7 @@ const SecureTransaction = () => {
               income according to your investment.
               </h2>
               <p>
-              IliminatisCoin Is a high-frequency trading token-based rewards protocol 
+              IluminatisCoin Is a high-frequency trading token-based rewards protocol 
               developed with the vision of giving you passive rewards according to your investment.
               </p>
               <p>
