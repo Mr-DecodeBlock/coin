@@ -18,8 +18,8 @@ const HomeOne = () => {
       <MetaTags>
         <title>IluminatisCoin | Home</title>
         <meta
-          name="description"
-          content="Homepage of React JS Crypto Currency Template."
+          name="IluminatisCoin"
+          content="Earn interest daily with iluminatisCoin."
         />
       </MetaTags>
       <LayoutOne>
